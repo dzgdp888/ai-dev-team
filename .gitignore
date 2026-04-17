@@ -28,3 +28,9 @@ dist/
 
 # Docker
 *.log
+
+# claude
+.claude/
+
+# git
+.git/
