@@ -1,0 +1,9 @@
+elasticsearch:8.11.0
+elasticsearch:8.13.0
+elasticsearch:8.15.0
+minio/minio:latest
+mysql:8.0
+neo4j:5-community
+node:20-alpine
+python:3.11-slim
+redis:7-alpine
